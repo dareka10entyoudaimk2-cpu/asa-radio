@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+ <channel>
+  <title>夜のClaude講座</title>
+  <link>https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/</link>
+  <description>Claude Academy（Anthropic公式の無料講座）を日本語で聞く、1回10分の個人用番組</description>
+  <language>ja</language>
+  <itunes:type>serial</itunes:type>
+  <itunes:block>Yes</itunes:block>
+  <item>
+   <title>第10回 AIの知識とそのすき間／作業の記憶コンテキストウィンドウ／情報が多すぎると悪くなる</title>
+   <description>エーアイの得意と苦手 レッスン6〜9。AIの知識は学習データだけで締め切り日で止まることと、決まった大きさの作業の記憶、長い情報の真ん中が抜け落ちやすいことと置き方のコツ。</description>
+   <guid isPermaLink="false">yoru-claude-010</guid>
+   <pubDate>Wed, 14 Oct 2026 16:48:26 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/010.mp3" length="4317932" type="audio/mpeg"/>
+   <itunes:duration>539</itunes:duration>
+   <itunes:episode>10</itunes:episode>
+  </item>
+  <item>
+   <title>第9回 新コース AIの得意と苦手／生成AIとは／AIの性格のでき方／次のトークンの予測</title>
+   <description>AIの得意と苦手 レッスン1〜5。生成AIの四つの性質と、学習でできるAIのくせ、次のトークンの予測が生む作り話と確かめ方。</description>
+   <guid isPermaLink="false">yoru-claude-009</guid>
+   <pubDate>Wed, 14 Oct 2026 16:48:25 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/009.mp3" length="4348076" type="audio/mpeg"/>
+   <itunes:duration>543</itunes:duration>
+   <itunes:episode>9</itunes:episode>
+  </item>
+  <item>
+   <title>第8回 エーアイ・フルエンシーのまとめ／四つの力のおさらい／コースのあとの練習問題</title>
+   <description>エーアイ・フルエンシー基礎 レッスン13〜14。四つの力のまとめと第5〜8回のおさらい、コース後に続けられる計画づくり・プロンプト集・言葉のゲームなどの練習。</description>
+   <guid isPermaLink="false">yoru-claude-008</guid>
+   <pubDate>Wed, 14 Oct 2026 16:48:24 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/008.mp3" length="4260716" type="audio/mpeg"/>
+   <itunes:duration>532</itunes:duration>
+   <itunes:episode>8</itunes:episode>
+  </item>
+  <item>
+   <title>第7回 見極める力ディサーンメント／伝えると見極めるのくり返し／責任を持つ力ディリジェンス</title>
+   <description>エーアイ・フルエンシー基礎 レッスン10〜12。答え・進め方・振るまいを見極める三つの視点と、伝える・見極めるのくり返し、AIとの協働に責任を持つ三つの要素。</description>
+   <guid isPermaLink="false">yoru-claude-007</guid>
+   <pubDate>Wed, 14 Oct 2026 16:48:23 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/007.mp3" length="4078700" type="audio/mpeg"/>
+   <itunes:duration>509</itunes:duration>
+   <itunes:episode>7</itunes:episode>
+  </item>
+  <item>
+   <title>第6回 任せる力デリゲーション／プロジェクトの計画／伝える力ディスクリプション／プロンプトの6つのコツ</title>
+   <description>エーアイ・フルエンシー基礎 レッスン6〜9。何をAIに任せるかの決め方と、プロダクト・プロセス・パフォーマンスの三つで伝える方法、プロンプトの六つの基本のコツ。</description>
+   <guid isPermaLink="false">yoru-claude-006</guid>
+   <pubDate>Wed, 14 Oct 2026 16:48:22 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/006.mp3" length="4256108" type="audio/mpeg"/>
+   <itunes:duration>531</itunes:duration>
+   <itunes:episode>6</itunes:episode>
+  </item>
+  <item>
+   <title>第5回 エーアイ・フルエンシーとは／3つの関わり方とフォーディー／生成エーアイのできることとできないこと</title>
+   <description>AI Fluency: Framework &amp; Foundations レッスン1〜5。新コースの紹介、自動化・拡張・エージェンシーの3つの関わり方、4Dの4つの力、生成AIの仕組みと得意・苦手を扱う。</description>
+   <guid isPermaLink="false">yoru-claude-005</guid>
+   <pubDate>Wed, 14 Oct 2026 16:48:21 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/005.mp3" length="4247660" type="audio/mpeg"/>
+   <itunes:duration>530</itunes:duration>
+   <itunes:episode>5</itunes:episode>
+  </item>
+  <item>
+   <title>第4回 役割ごとの使い方／クロードを使えるほかの場所／クロード101のおさらい</title>
+   <description>Claude 101 レッスン11〜13。職種別の活用例、クロードコードやクローム・オフィス向けなど別の使い方、コース全体のおさらいと次の一歩。</description>
+   <guid isPermaLink="false">yoru-claude-004</guid>
+   <pubDate>Wed, 14 Oct 2026 16:48:20 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/004.mp3" length="3863852" type="audio/mpeg"/>
+   <itunes:duration>482</itunes:duration>
+   <itunes:episode>4</itunes:episode>
+  </item>
+  <item>
+   <title>第3回 スキル／コネクターで道具をつなぐ／エンタープライズサーチ／リサーチ</title>
+   <description>Claude 101 レッスン7〜10。スキルの種類と作り方、プロジェクトとの違い、コネクターとMCP、社内検索、何度も検索して出典付きでまとめるリサーチ。</description>
+   <guid isPermaLink="false">yoru-claude-003</guid>
+   <pubDate>Wed, 14 Oct 2026 16:48:19 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/003.mp3" length="3895724" type="audio/mpeg"/>
+   <itunes:duration>486</itunes:duration>
+   <itunes:episode>3</itunes:episode>
+  </item>
+  <item>
+   <title>第2回 デスクトップでの使い分け／プロジェクト入門／アーティファクトで作る</title>
+   <description>Claude 101 レッスン4〜6。チャット・コワーク・コードの三つの使い分け、資料と指示をまとめるプロジェクト、会話の横に成果物を作るアーティファクトを紹介。</description>
+   <guid isPermaLink="false">yoru-claude-002</guid>
+   <pubDate>Wed, 14 Oct 2026 16:48:18 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/002.mp3" length="4217132" type="audio/mpeg"/>
+   <itunes:duration>527</itunes:duration>
+   <itunes:episode>2</itunes:episode>
+  </item>
+  <item>
+   <title>第1回 クロードってなに？／最初の会話／よい答えを引き出すコツ</title>
+   <description>Claude 101 レッスン1〜3。クロードの特徴と使える場所、よいプロンプトの3要素と会話の育て方、よくあるつまずきの直し方とフォーディー、エバルによる確かめ方。</description>
+   <guid isPermaLink="false">yoru-claude-001</guid>
+   <pubDate>Wed, 14 Oct 2026 16:48:17 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/001.mp3" length="4367660" type="audio/mpeg"/>
+   <itunes:duration>545</itunes:duration>
+   <itunes:episode>1</itunes:episode>
+  </item>
+ </channel>
+</rss>
