@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第14回 クロード・イン・クローム／マイクロソフト365の中のクロード／安全に任せるコツ</title>
+   <description>Introduction to Claude Cowork レッスン9〜11。ブラウザでの作業、ワードやエクセルの中で使うクロード、コワークを安全に使うための準備と頼み方。</description>
+   <guid isPermaLink="false">yoru-claude-014</guid>
+   <pubDate>Sun, 18 Oct 2026 12:02:25 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/014.mp3" length="3800492" type="audio/mpeg"/>
+   <itunes:duration>474</itunes:duration>
+   <itunes:episode>14</itunes:episode>
+  </item>
+  <item>
    <title>第13回 よい結果を早く出す土台／全体への指示とプロジェクト／スキル／プラグイン</title>
    <description>Introduction to Claude Cowork レッスン5〜8。コワークが使うほど詳しくなる四つの土台、全体への指示・プロジェクト・スキル・プラグインの中身と作り方。</description>
    <guid isPermaLink="false">yoru-claude-013</guid>
