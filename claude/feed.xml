@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第15回 スキルを試して確かめる／チームへの共有／コワーク入門のまとめ</title>
+   <description>コワーク入門 レッスン12〜14とクイズ。スキルの試し使い（イーバル）の進め方、プラグインを社内に届ける方法と続ける習慣、コースのまとめ。</description>
+   <guid isPermaLink="false">yoru-claude-015</guid>
+   <pubDate>Mon, 19 Oct 2026 12:02:23 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/015.mp3" length="3908396" type="audio/mpeg"/>
+   <itunes:duration>488</itunes:duration>
+   <itunes:episode>15</itunes:episode>
+  </item>
+  <item>
    <title>第14回 クロード・イン・クローム／マイクロソフト365の中のクロード／安全に任せるコツ</title>
    <description>Introduction to Claude Cowork レッスン9〜11。ブラウザでの作業、ワードやエクセルの中で使うクロード、コワークを安全に使うための準備と頼み方。</description>
    <guid isPermaLink="false">yoru-claude-014</guid>
