@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第16回 小さな会社のエーアイ・フルエンシー／フォーディーの考え方／エーアイの得意と苦手／エーアイと調べもの</title>
+   <description>小さな会社のためのAI Fluency レッスン1〜4。4Dの四つの力と二つの輪、生成AIの仕組みと限界、説明と見極めの往復による調べもの。</description>
+   <guid isPermaLink="false">yoru-claude-016</guid>
+   <pubDate>Tue, 20 Oct 2026 12:02:39 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/016.mp3" length="3837740" type="audio/mpeg"/>
+   <itunes:duration>479</itunes:duration>
+   <itunes:episode>16</itunes:episode>
+  </item>
+  <item>
    <title>第15回 スキルを試して確かめる／チームへの共有／コワーク入門のまとめ</title>
    <description>コワーク入門 レッスン12〜14とクイズ。スキルの試し使い（イーバル）の進め方、プラグインを社内に届ける方法と続ける習慣、コースのまとめ。</description>
    <guid isPermaLink="false">yoru-claude-015</guid>
