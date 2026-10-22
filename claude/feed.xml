@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第18回 クロードコードってなに？／しくみとループ／入れ方／最初のプロンプト</title>
+   <description>Claude Code 101 レッスン1〜4。エージェントとしてのクロードコード、エージェントのループ・コンテキスト・ツール・許可モード、入れ方、プランモードを使った最初のプロンプト。</description>
+   <guid isPermaLink="false">yoru-claude-018</guid>
+   <pubDate>Thu, 22 Oct 2026 12:03:41 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/018.mp3" length="4124780" type="audio/mpeg"/>
+   <itunes:duration>515</itunes:duration>
+   <itunes:episode>18</itunes:episode>
+  </item>
+  <item>
    <title>第17回 データとエーアイの透明な使い方／全部をまとめる／人が輪の中にいる／コースの締めくくり</title>
    <description>AI Fluency for small businesses レッスン5〜8とコースクイズ。データの渡し方、自動化する仕事の選び方、エーアイ方針の作り方とコースのおさらい。</description>
    <guid isPermaLink="false">yoru-claude-017</guid>
