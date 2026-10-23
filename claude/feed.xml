@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第19回 調べる・計画・作る・記録の流れ／コンテキストの管理／変更の見直し／クロード・エムディー</title>
+   <description>Claude Code 101 レッスン5〜8。作業の基本の流れとプランモード、コンテキストの圧縮とクリア、ディフとコードレビュー、CLAUDE.mdの役割。</description>
+   <guid isPermaLink="false">yoru-claude-019</guid>
+   <pubDate>Fri, 23 Oct 2026 12:02:38 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/019.mp3" length="4047788" type="audio/mpeg"/>
+   <itunes:duration>505</itunes:duration>
+   <itunes:episode>19</itunes:episode>
+  </item>
+  <item>
    <title>第18回 クロードコードってなに？／しくみとループ／入れ方／最初のプロンプト</title>
    <description>Claude Code 101 レッスン1〜4。エージェントとしてのクロードコード、エージェントのループ・コンテキスト・ツール・許可モード、入れ方、プランモードを使った最初のプロンプト。</description>
    <guid isPermaLink="false">yoru-claude-018</guid>
