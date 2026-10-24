@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第20回 サブエージェント／スキル／エムシーピー／フック／コースのおさらい</title>
+   <description>Claude Code 101 レッスン9〜12とコースクイズ。サブエージェント、スキル、MCP、フックの役割と使い分けを学び、コース全体をおさらいする。</description>
+   <guid isPermaLink="false">yoru-claude-020</guid>
+   <pubDate>Sat, 24 Oct 2026 12:02:41 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/020.mp3" length="4195628" type="audio/mpeg"/>
+   <itunes:duration>524</itunes:duration>
+   <itunes:episode>20</itunes:episode>
+  </item>
+  <item>
    <title>第19回 調べる・計画・作る・記録の流れ／コンテキストの管理／変更の見直し／クロード・エムディー</title>
    <description>Claude Code 101 レッスン5〜8。作業の基本の流れとプランモード、コンテキストの圧縮とクリア、ディフとコードレビュー、CLAUDE.mdの役割。</description>
    <guid isPermaLink="false">yoru-claude-019</guid>
