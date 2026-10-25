@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第21回 長い作業の舵取り／守られるクロード・エムディー／確認のスキル／許可のモード</title>
+   <description>Claude Code in action レッスン1〜4。プランモードと要約・巻き戻し・ゴール・ループ・ワークツリーでの長い作業の舵取り、短く具体的なCLAUDE.md、確認用スキル、6つの許可モード。</description>
+   <guid isPermaLink="false">yoru-claude-021</guid>
+   <pubDate>Sun, 25 Oct 2026 12:02:45 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/021.mp3" length="3998444" type="audio/mpeg"/>
+   <itunes:duration>499</itunes:duration>
+   <itunes:episode>21</itunes:episode>
+  </item>
+  <item>
    <title>第20回 サブエージェント／スキル／エムシーピー／フック／コースのおさらい</title>
    <description>Claude Code 101 レッスン9〜12とコースクイズ。サブエージェント、スキル、MCP、フックの役割と使い分けを学び、コース全体をおさらいする。</description>
    <guid isPermaLink="false">yoru-claude-020</guid>
