@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第22回 フック／定期実行と画面なしの実行／ギットハブとの連携／見ていない作業の確かめ方</title>
+   <description>Claude Code in action レッスン5〜8。フックで決まりを必ず守らせる方法、ルーティンとヘッドレス、コードレビューとギットハブアクション、無人の作業の確かめ方。</description>
+   <guid isPermaLink="false">yoru-claude-022</guid>
+   <pubDate>Mon, 26 Oct 2026 12:02:51 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/022.mp3" length="3783788" type="audio/mpeg"/>
+   <itunes:duration>472</itunes:duration>
+   <itunes:episode>22</itunes:episode>
+  </item>
+  <item>
    <title>第21回 長い作業の舵取り／守られるクロード・エムディー／確認のスキル／許可のモード</title>
    <description>Claude Code in action レッスン1〜4。プランモードと要約・巻き戻し・ゴール・ループ・ワークツリーでの長い作業の舵取り、短く具体的なCLAUDE.md、確認用スキル、6つの許可モード。</description>
    <guid isPermaLink="false">yoru-claude-021</guid>
