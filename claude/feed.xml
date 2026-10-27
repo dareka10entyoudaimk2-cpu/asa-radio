@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第23回 プラグイン／実践コースのおさらい</title>
+   <description>Claude Code in action レッスン9とコースのまとめ。プラグインの使い方と入れる前に読む注意、自分の設定の包み方、コース全体の振り返り。</description>
+   <guid isPermaLink="false">yoru-claude-023</guid>
+   <pubDate>Tue, 27 Oct 2026 12:04:16 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/023.mp3" length="4164140" type="audio/mpeg"/>
+   <itunes:duration>520</itunes:duration>
+   <itunes:episode>23</itunes:episode>
+  </item>
+  <item>
    <title>第22回 フック／定期実行と画面なしの実行／ギットハブとの連携／見ていない作業の確かめ方</title>
    <description>Claude Code in action レッスン5〜8。フックで決まりを必ず守らせる方法、ルーティンとヘッドレス、コードレビューとギットハブアクション、無人の作業の確かめ方。</description>
    <guid isPermaLink="false">yoru-claude-022</guid>
