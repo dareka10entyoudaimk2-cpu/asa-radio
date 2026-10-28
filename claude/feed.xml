@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第24回 サブエージェントってなに？／作り方とよい設計／使いどころとコースのおさらい</title>
+   <description>Introduction to subagents レッスン1〜4とコースのまとめ。助っ人が別の会話で働き要約を返す仕組み、作り方と設計の四つのポイント、向く仕事と向かない仕事。</description>
+   <guid isPermaLink="false">yoru-claude-024</guid>
+   <pubDate>Wed, 28 Oct 2026 12:02:43 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/024.mp3" length="3965228" type="audio/mpeg"/>
+   <itunes:duration>495</itunes:duration>
+   <itunes:episode>24</itunes:episode>
+  </item>
+  <item>
    <title>第23回 プラグイン／実践コースのおさらい</title>
    <description>Claude Code in action レッスン9とコースのまとめ。プラグインの使い方と入れる前に読む注意、自分の設定の包み方、コース全体の振り返り。</description>
    <guid isPermaLink="false">yoru-claude-023</guid>
