@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第25回 スキルってなに？／はじめてのスキル作り／設定と複数ファイル／ほかの機能との使い分け</title>
+   <description>エージェントスキル入門 レッスン1〜4。スキルの仕組みと置き場所、作り方と読み込みの順番、説明の書き方や段階的な開示、クロードエムディーやサブエージェントとの使い分け。</description>
+   <guid isPermaLink="false">yoru-claude-025</guid>
+   <pubDate>Thu, 29 Oct 2026 12:03:29 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/025.mp3" length="4205420" type="audio/mpeg"/>
+   <itunes:duration>525</itunes:duration>
+   <itunes:episode>25</itunes:episode>
+  </item>
+  <item>
    <title>第24回 サブエージェントってなに？／作り方とよい設計／使いどころとコースのおさらい</title>
    <description>Introduction to subagents レッスン1〜4とコースのまとめ。助っ人が別の会話で働き要約を返す仕組み、作り方と設計の四つのポイント、向く仕事と向かない仕事。</description>
    <guid isPermaLink="false">yoru-claude-024</guid>
