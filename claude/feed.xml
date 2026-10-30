@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第26回 スキルの共有／うまく動かないときの直し方／エージェントスキル入門のおさらい</title>
+   <description>エージェントスキル入門 レッスン5〜6とコースのまとめ。リポジトリ・プラグイン・管理用設定での共有、サブエージェントとスキルの関係、発動しない・読み込まれないなどの直し方。</description>
+   <guid isPermaLink="false">yoru-claude-026</guid>
+   <pubDate>Fri, 30 Oct 2026 12:02:53 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/026.mp3" length="3876524" type="audio/mpeg"/>
+   <itunes:duration>484</itunes:duration>
+   <itunes:episode>26</itunes:episode>
+  </item>
+  <item>
    <title>第25回 スキルってなに？／はじめてのスキル作り／設定と複数ファイル／ほかの機能との使い分け</title>
    <description>エージェントスキル入門 レッスン1〜4。スキルの仕組みと置き場所、作り方と読み込みの順番、説明の書き方や段階的な開示、クロードエムディーやサブエージェントとの使い分け。</description>
    <guid isPermaLink="false">yoru-claude-025</guid>
