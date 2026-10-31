@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第27回 みんなで使うAI／ひとり用の道具との違い／強いチームと準備のチェック／小さく始めるコツ</title>
+   <description>人とエージェントのチーム作り コース全5レッスンとおさらい。ひとり用とみんなで使うAIの違い、エージェントの3つの力、強いチームの4つの習慣、準備の5つの質問、最初の2週間の始め方。</description>
+   <guid isPermaLink="false">yoru-claude-027</guid>
+   <pubDate>Sat, 31 Oct 2026 12:04:08 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/027.mp3" length="4239404" type="audio/mpeg"/>
+   <itunes:duration>529</itunes:duration>
+   <itunes:episode>27</itunes:episode>
+  </item>
+  <item>
    <title>第26回 スキルの共有／うまく動かないときの直し方／エージェントスキル入門のおさらい</title>
    <description>エージェントスキル入門 レッスン5〜6とコースのまとめ。リポジトリ・プラグイン・管理用設定での共有、サブエージェントとスキルの関係、発動しない・読み込まれないなどの直し方。</description>
    <guid isPermaLink="false">yoru-claude-026</guid>
