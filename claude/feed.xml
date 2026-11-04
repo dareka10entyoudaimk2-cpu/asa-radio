@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第31回 エムシーピーってなに？／エムシーピークライアントの役目／道具を作る／動作を確かめるインスペクター</title>
+   <description>モデル・コンテキスト・プロトコル入門 レッスン1〜4。エムシーピーが外部サービスとの連携の手間を肩代わりするしくみ、クライアントとサーバーのやりとり、パイソンでの道具の定義、インスペクターでの動作確認を扱う。</description>
+   <guid isPermaLink="false">yoru-claude-031</guid>
+   <pubDate>Wed, 04 Nov 2026 12:02:34 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/031.mp3" length="3688748" type="audio/mpeg"/>
+   <itunes:duration>461</itunes:duration>
+   <itunes:episode>31</itunes:episode>
+  </item>
+  <item>
    <title>第30回 クロードにまかせる範囲を広げる／チームの習慣を見直す／クロードタグ入門のおさらい</title>
    <description>Introduction to Claude Tag レッスン10〜11とクイズ。四つの機能でクロードに続く仕事をまかせる考え方、目標と受け持ちの伝え方、チームの習慣チェックリスト、コースのおさらい。</description>
    <guid isPermaLink="false">yoru-claude-030</guid>
