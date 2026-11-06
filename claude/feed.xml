@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第33回 プロンプトをクライアントで使う／最後のテスト／エムシーピーのふりかえり</title>
+   <description>エムシーピー入門 レッスン9〜10とテスト。プロンプトの一覧と値の差し込み、道具・リソース・プロンプトを動かす担当の違いとコース全体のおさらい。</description>
+   <guid isPermaLink="false">yoru-claude-033</guid>
+   <pubDate>Fri, 06 Nov 2026 12:02:50 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/033.mp3" length="3873068" type="audio/mpeg"/>
+   <itunes:duration>484</itunes:duration>
+   <itunes:episode>33</itunes:episode>
+  </item>
+  <item>
    <title>第32回 クライアントを組み立てる／リソースを作る／リソースを読む／プロンプトのひな形</title>
    <description>エムシーピー入門 レッスン5〜8。クライアントの二つの働き、読み取り専用の情報リソース、作り手が磨いた指示のひな形プロンプトを学ぶ。</description>
    <guid isPermaLink="false">yoru-claude-032</guid>
