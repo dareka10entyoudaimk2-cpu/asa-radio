@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第34回 導入で決める5つのこと／決める担当者／事前の準備／組織はひとつか複数か</title>
+   <description>クロードのエンタープライズ導入コース レッスン1〜4。5つの決めごとと順番、担当者、締め出し対策とドメインの取り込み、組織の数の決め方。</description>
+   <guid isPermaLink="false">yoru-claude-034</guid>
+   <pubDate>Sat, 07 Nov 2026 12:02:55 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/034.mp3" length="3813164" type="audio/mpeg"/>
+   <itunes:duration>476</itunes:duration>
+   <itunes:episode>34</itunes:episode>
+  </item>
+  <item>
    <title>第33回 プロンプトをクライアントで使う／最後のテスト／エムシーピーのふりかえり</title>
    <description>エムシーピー入門 レッスン9〜10とテスト。プロンプトの一覧と値の差し込み、道具・リソース・プロンプトを動かす担当の違いとコース全体のおさらい。</description>
    <guid isPermaLink="false">yoru-claude-033</guid>
