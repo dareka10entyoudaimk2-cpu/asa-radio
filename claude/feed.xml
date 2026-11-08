@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第35回 グループの組み方／グループごとに使える場所／コネクター</title>
+   <description>Claude Enterpriseの導入コース レッスン5〜7。グループとロールの足し算ルール、使える場所とモデルの標準、コネクターの3つの門と読む・書くの違い。</description>
+   <guid isPermaLink="false">yoru-claude-035</guid>
+   <pubDate>Sun, 08 Nov 2026 12:02:41 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/035.mp3" length="3833708" type="audio/mpeg"/>
+   <itunes:duration>479</itunes:duration>
+   <itunes:episode>35</itunes:episode>
+  </item>
+  <item>
    <title>第34回 導入で決める5つのこと／決める担当者／事前の準備／組織はひとつか複数か</title>
    <description>クロードのエンタープライズ導入コース レッスン1〜4。5つの決めごとと順番、担当者、締め出し対策とドメインの取り込み、組織の数の決め方。</description>
    <guid isPermaLink="false">yoru-claude-034</guid>
