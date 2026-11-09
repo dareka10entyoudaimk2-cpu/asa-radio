@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第36回 カスタマイズの管理／使用額の上限／使用額の上手な管理</title>
+   <description>エンタープライズ導入コース レッスン8〜10。スキルや共有の広げ方の構え、3段階の使用額上限、上限を上げる前に標準モデルや使い方を見直すコツ。</description>
+   <guid isPermaLink="false">yoru-claude-036</guid>
+   <pubDate>Mon, 09 Nov 2026 12:02:41 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/036.mp3" length="3938732" type="audio/mpeg"/>
+   <itunes:duration>492</itunes:duration>
+   <itunes:episode>36</itunes:episode>
+  </item>
+  <item>
    <title>第35回 グループの組み方／グループごとに使える場所／コネクター</title>
    <description>Claude Enterpriseの導入コース レッスン5〜7。グループとロールの足し算ルール、使える場所とモデルの標準、コネクターの3つの門と読む・書くの違い。</description>
    <guid isPermaLink="false">yoru-claude-035</guid>
