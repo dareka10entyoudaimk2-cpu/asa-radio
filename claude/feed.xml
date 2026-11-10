@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第37回 何を測れるか／使われ具合のサイン／五つの判断のつながり／新しい製品が来たとき</title>
+   <description>エンタープライズ導入コース レッスン11〜14（最終回）。記録は使い始める前に用意し保存期間は戻せないこと、利用の数字は診断として読むこと、新製品に問う三つの質問。コースのおさらい付き。</description>
+   <guid isPermaLink="false">yoru-claude-037</guid>
+   <pubDate>Tue, 10 Nov 2026 12:02:46 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/037.mp3" length="4019180" type="audio/mpeg"/>
+   <itunes:duration>502</itunes:duration>
+   <itunes:episode>37</itunes:episode>
+  </item>
+  <item>
    <title>第36回 カスタマイズの管理／使用額の上限／使用額の上手な管理</title>
    <description>エンタープライズ導入コース レッスン8〜10。スキルや共有の広げ方の構え、3段階の使用額上限、上限を上げる前に標準モデルや使い方を見直すコツ。</description>
    <guid isPermaLink="false">yoru-claude-036</guid>
