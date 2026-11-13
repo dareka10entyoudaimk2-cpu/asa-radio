@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第40回 まとめとこれから／作り手のフォーディー総復習／確認テスト</title>
+   <description>AI Fluency for builders レッスン9とコース確認テスト。コース全体の要点と、今週本物の作業に4つの力で取り組む練習を紹介。</description>
+   <guid isPermaLink="false">yoru-claude-040</guid>
+   <pubDate>Fri, 13 Nov 2026 22:38:40 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/040.mp3" length="3807020" type="audio/mpeg"/>
+   <itunes:duration>475</itunes:duration>
+   <itunes:episode>40</itunes:episode>
+  </item>
+  <item>
    <title>第39回 伝える鎖でよいものを作る／コードの見きわめ／使い心地の見きわめ／作ったものに責任を持つ</title>
    <description>AI Fluency for builders レッスン5〜8。伝える鎖、AIの弱点とセンス、使い心地の仕様化とアクセシビリティ、公開の責任とテスト。</description>
    <guid isPermaLink="false">yoru-claude-039</guid>
