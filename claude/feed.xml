@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第41回 創作のエーアイ・フルエンシーへようこそ／価値のレンズ／制作のレンズ／フォーディーの枠組み</title>
+   <description>AI Fluency for creative work レッスン1〜4。AIを使わない状態から考えて決める姿勢、作品の価値を見る三つの視点、制作コストの見方、4Dの二つの輪。</description>
+   <guid isPermaLink="false">yoru-claude-041</guid>
+   <pubDate>Sat, 14 Nov 2026 12:02:51 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/041.mp3" length="4015724" type="audio/mpeg"/>
+   <itunes:duration>501</itunes:duration>
+   <itunes:episode>41</itunes:episode>
+  </item>
+  <item>
    <title>第40回 まとめとこれから／作り手のフォーディー総復習／確認テスト</title>
    <description>AI Fluency for builders レッスン9とコース確認テスト。コース全体の要点と、今週本物の作業に4つの力で取り組む練習を紹介。</description>
    <guid isPermaLink="false">yoru-claude-040</guid>
@@ -357,15 +366,6 @@
    <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/002.mp3" length="4217132" type="audio/mpeg"/>
    <itunes:duration>527</itunes:duration>
    <itunes:episode>2</itunes:episode>
-  </item>
-  <item>
-   <title>第1回 クロードってなに？／最初の会話／よい答えを引き出すコツ</title>
-   <description>Claude 101 レッスン1〜3。クロードの特徴と使える場所、よいプロンプトの3要素と会話の育て方、よくあるつまずきの直し方とフォーディー、エバルによる確かめ方。</description>
-   <guid isPermaLink="false">yoru-claude-001</guid>
-   <pubDate>Wed, 14 Oct 2026 16:48:17 +0000</pubDate>
-   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/001.mp3" length="4367660" type="audio/mpeg"/>
-   <itunes:duration>545</itunes:duration>
-   <itunes:episode>1</itunes:episode>
   </item>
  </channel>
 </rss>
