@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第42回 説明と見極め／任せることと責任／エーアイの五つの役割／自分の利用方針</title>
+   <description>AI Fluency for creative work レッスン5〜8とコースのおさらい。自分のやり方を基準にする、任せる判断の順番、五つの役割、見直し時期を入れた利用方針。</description>
+   <guid isPermaLink="false">yoru-claude-042</guid>
+   <pubDate>Sun, 15 Nov 2026 12:02:38 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/042.mp3" length="3827948" type="audio/mpeg"/>
+   <itunes:duration>478</itunes:duration>
+   <itunes:episode>42</itunes:episode>
+  </item>
+  <item>
    <title>第41回 創作のエーアイ・フルエンシーへようこそ／価値のレンズ／制作のレンズ／フォーディーの枠組み</title>
    <description>AI Fluency for creative work レッスン1〜4。AIを使わない状態から考えて決める姿勢、作品の価値を見る三つの視点、制作コストの見方、4Dの二つの輪。</description>
    <guid isPermaLink="false">yoru-claude-041</guid>
@@ -357,15 +366,6 @@
    <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/003.mp3" length="3895724" type="audio/mpeg"/>
    <itunes:duration>486</itunes:duration>
    <itunes:episode>3</itunes:episode>
-  </item>
-  <item>
-   <title>第2回 デスクトップでの使い分け／プロジェクト入門／アーティファクトで作る</title>
-   <description>Claude 101 レッスン4〜6。チャット・コワーク・コードの三つの使い分け、資料と指示をまとめるプロジェクト、会話の横に成果物を作るアーティファクトを紹介。</description>
-   <guid isPermaLink="false">yoru-claude-002</guid>
-   <pubDate>Wed, 14 Oct 2026 16:48:18 +0000</pubDate>
-   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/002.mp3" length="4217132" type="audio/mpeg"/>
-   <itunes:duration>527</itunes:duration>
-   <itunes:episode>2</itunes:episode>
   </item>
  </channel>
 </rss>
