@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第43回 クロードプラットフォームとは／はじめてのエーピーアイ呼び出し／モデルの選び方／エージェントループ</title>
+   <description>Claude Platform 101 レッスン1〜4。プラットフォームの三つの層、messages.createの基本、評価でモデルを選ぶ考え方、道具を使うエージェントループの仕組み。</description>
+   <guid isPermaLink="false">yoru-claude-043</guid>
+   <pubDate>Mon, 16 Nov 2026 12:02:51 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/043.mp3" length="4168364" type="audio/mpeg"/>
+   <itunes:duration>520</itunes:duration>
+   <itunes:episode>43</itunes:episode>
+  </item>
+  <item>
    <title>第42回 説明と見極め／任せることと責任／エーアイの五つの役割／自分の利用方針</title>
    <description>AI Fluency for creative work レッスン5〜8とコースのおさらい。自分のやり方を基準にする、任せる判断の順番、五つの役割、見直し時期を入れた利用方針。</description>
    <guid isPermaLink="false">yoru-claude-042</guid>
@@ -357,15 +366,6 @@
    <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/004.mp3" length="3863852" type="audio/mpeg"/>
    <itunes:duration>482</itunes:duration>
    <itunes:episode>4</itunes:episode>
-  </item>
-  <item>
-   <title>第3回 スキル／コネクターで道具をつなぐ／エンタープライズサーチ／リサーチ</title>
-   <description>Claude 101 レッスン7〜10。スキルの種類と作り方、プロジェクトとの違い、コネクターとMCP、社内検索、何度も検索して出典付きでまとめるリサーチ。</description>
-   <guid isPermaLink="false">yoru-claude-003</guid>
-   <pubDate>Wed, 14 Oct 2026 16:48:19 +0000</pubDate>
-   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/003.mp3" length="3895724" type="audio/mpeg"/>
-   <itunes:duration>486</itunes:duration>
-   <itunes:episode>3</itunes:episode>
   </item>
  </channel>
 </rss>
