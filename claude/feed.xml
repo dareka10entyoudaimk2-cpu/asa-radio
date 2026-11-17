@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第44回 ツールユース／じっくり考える機能／最初から用意された道具／スキル</title>
+   <description>Claude Platform 101 レッスン5〜8。道具を使う仕組み、拡張思考とエフォート、サーバーツールとクライアントツール、エーピーアイでのスキルの使い方。</description>
+   <guid isPermaLink="false">yoru-claude-044</guid>
+   <pubDate>Tue, 17 Nov 2026 12:04:29 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/044.mp3" length="3854636" type="audio/mpeg"/>
+   <itunes:duration>481</itunes:duration>
+   <itunes:episode>44</itunes:episode>
+  </item>
+  <item>
    <title>第43回 クロードプラットフォームとは／はじめてのエーピーアイ呼び出し／モデルの選び方／エージェントループ</title>
    <description>Claude Platform 101 レッスン1〜4。プラットフォームの三つの層、messages.createの基本、評価でモデルを選ぶ考え方、道具を使うエージェントループの仕組み。</description>
    <guid isPermaLink="false">yoru-claude-043</guid>
@@ -357,15 +366,6 @@
    <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/005.mp3" length="4247660" type="audio/mpeg"/>
    <itunes:duration>530</itunes:duration>
    <itunes:episode>5</itunes:episode>
-  </item>
-  <item>
-   <title>第4回 役割ごとの使い方／クロードを使えるほかの場所／クロード101のおさらい</title>
-   <description>Claude 101 レッスン11〜13。職種別の活用例、クロードコードやクローム・オフィス向けなど別の使い方、コース全体のおさらいと次の一歩。</description>
-   <guid isPermaLink="false">yoru-claude-004</guid>
-   <pubDate>Wed, 14 Oct 2026 16:48:20 +0000</pubDate>
-   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/004.mp3" length="3863852" type="audio/mpeg"/>
-   <itunes:duration>482</itunes:duration>
-   <itunes:episode>4</itunes:episode>
   </item>
  </channel>
 </rss>
