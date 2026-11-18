@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第45回 エムシーピー／作業の場所の管理／マネージドエージェントってなに</title>
+   <description>Claude Platform 101 レッスン9〜11。エムシーピーの役割と道具の絞り方、コンテキスト管理の4つの型、マネージドエージェントの例と部品。</description>
+   <guid isPermaLink="false">yoru-claude-045</guid>
+   <pubDate>Wed, 18 Nov 2026 12:18:03 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/045.mp3" length="4129004" type="audio/mpeg"/>
+   <itunes:duration>516</itunes:duration>
+   <itunes:episode>45</itunes:episode>
+  </item>
+  <item>
    <title>第44回 ツールユース／じっくり考える機能／最初から用意された道具／スキル</title>
    <description>Claude Platform 101 レッスン5〜8。道具を使う仕組み、拡張思考とエフォート、サーバーツールとクライアントツール、エーピーアイでのスキルの使い方。</description>
    <guid isPermaLink="false">yoru-claude-044</guid>
@@ -357,15 +366,6 @@
    <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/006.mp3" length="4256108" type="audio/mpeg"/>
    <itunes:duration>531</itunes:duration>
    <itunes:episode>6</itunes:episode>
-  </item>
-  <item>
-   <title>第5回 エーアイ・フルエンシーとは／3つの関わり方とフォーディー／生成エーアイのできることとできないこと</title>
-   <description>AI Fluency: Framework &amp; Foundations レッスン1〜5。新コースの紹介、自動化・拡張・エージェンシーの3つの関わり方、4Dの4つの力、生成AIの仕組みと得意・苦手を扱う。</description>
-   <guid isPermaLink="false">yoru-claude-005</guid>
-   <pubDate>Wed, 14 Oct 2026 16:48:21 +0000</pubDate>
-   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/005.mp3" length="4247660" type="audio/mpeg"/>
-   <itunes:duration>530</itunes:duration>
-   <itunes:episode>5</itunes:episode>
   </item>
  </channel>
 </rss>
