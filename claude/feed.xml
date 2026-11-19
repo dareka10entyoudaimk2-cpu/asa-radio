@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第46回 初めてのマネージドエージェント／クロードコードで作る／コースのおさらい</title>
+   <description>Claude Platform 101 レッスン12・13とクイズ。マネージドエージェントの四つの部品と作り方、クロードコードにエーピーアイのコードを書かせるコツ、コース全体のおさらい。</description>
+   <guid isPermaLink="false">yoru-claude-046</guid>
+   <pubDate>Thu, 19 Nov 2026 12:02:50 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/046.mp3" length="3755756" type="audio/mpeg"/>
+   <itunes:duration>469</itunes:duration>
+   <itunes:episode>46</itunes:episode>
+  </item>
+  <item>
    <title>第45回 エムシーピー／作業の場所の管理／マネージドエージェントってなに</title>
    <description>Claude Platform 101 レッスン9〜11。エムシーピーの役割と道具の絞り方、コンテキスト管理の4つの型、マネージドエージェントの例と部品。</description>
    <guid isPermaLink="false">yoru-claude-045</guid>
@@ -357,15 +366,6 @@
    <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/007.mp3" length="4078700" type="audio/mpeg"/>
    <itunes:duration>509</itunes:duration>
    <itunes:episode>7</itunes:episode>
-  </item>
-  <item>
-   <title>第6回 任せる力デリゲーション／プロジェクトの計画／伝える力ディスクリプション／プロンプトの6つのコツ</title>
-   <description>エーアイ・フルエンシー基礎 レッスン6〜9。何をAIに任せるかの決め方と、プロダクト・プロセス・パフォーマンスの三つで伝える方法、プロンプトの六つの基本のコツ。</description>
-   <guid isPermaLink="false">yoru-claude-006</guid>
-   <pubDate>Wed, 14 Oct 2026 16:48:22 +0000</pubDate>
-   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/006.mp3" length="4256108" type="audio/mpeg"/>
-   <itunes:duration>531</itunes:duration>
-   <itunes:episode>6</itunes:episode>
   </item>
  </channel>
 </rss>
