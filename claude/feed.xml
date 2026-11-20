@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第47回 エーピーアイの仕組み／キーの作り方／初めてのリクエスト／続けて話す会話</title>
+   <description>Building with the Claude API レッスン1〜4。リクエストの流れとキーの守り方、最初の呼び出し、会話履歴を毎回送る仕組み。</description>
+   <guid isPermaLink="false">yoru-claude-047</guid>
+   <pubDate>Fri, 20 Nov 2026 12:02:50 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/047.mp3" length="3851948" type="audio/mpeg"/>
+   <itunes:duration>481</itunes:duration>
+   <itunes:episode>47</itunes:episode>
+  </item>
+  <item>
    <title>第46回 初めてのマネージドエージェント／クロードコードで作る／コースのおさらい</title>
    <description>Claude Platform 101 レッスン12・13とクイズ。マネージドエージェントの四つの部品と作り方、クロードコードにエーピーアイのコードを書かせるコツ、コース全体のおさらい。</description>
    <guid isPermaLink="false">yoru-claude-046</guid>
@@ -357,15 +366,6 @@
    <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/008.mp3" length="4260716" type="audio/mpeg"/>
    <itunes:duration>532</itunes:duration>
    <itunes:episode>8</itunes:episode>
-  </item>
-  <item>
-   <title>第7回 見極める力ディサーンメント／伝えると見極めるのくり返し／責任を持つ力ディリジェンス</title>
-   <description>エーアイ・フルエンシー基礎 レッスン10〜12。答え・進め方・振るまいを見極める三つの視点と、伝える・見極めるのくり返し、AIとの協働に責任を持つ三つの要素。</description>
-   <guid isPermaLink="false">yoru-claude-007</guid>
-   <pubDate>Wed, 14 Oct 2026 16:48:23 +0000</pubDate>
-   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/007.mp3" length="4078700" type="audio/mpeg"/>
-   <itunes:duration>509</itunes:duration>
-   <itunes:episode>7</itunes:episode>
   </item>
  </channel>
 </rss>
