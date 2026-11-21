@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第48回 システムプロンプト／温度の目盛り／ストリーミング／整ったデータの取り出し方</title>
+   <description>Building with the Claude API のシステムプロンプト・温度・ストリーミング・構造化データ。役割の指定、答えのばらつき、少しずつ表示、JSONだけを取り出す技と新しい型での注意。</description>
+   <guid isPermaLink="false">yoru-claude-048</guid>
+   <pubDate>Sat, 21 Nov 2026 12:02:46 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/048.mp3" length="3770348" type="audio/mpeg"/>
+   <itunes:duration>471</itunes:duration>
+   <itunes:episode>48</itunes:episode>
+  </item>
+  <item>
    <title>第47回 エーピーアイの仕組み／キーの作り方／初めてのリクエスト／続けて話す会話</title>
    <description>Building with the Claude API レッスン1〜4。リクエストの流れとキーの守り方、最初の呼び出し、会話履歴を毎回送る仕組み。</description>
    <guid isPermaLink="false">yoru-claude-047</guid>
@@ -357,15 +366,6 @@
    <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/009.mp3" length="4348076" type="audio/mpeg"/>
    <itunes:duration>543</itunes:duration>
    <itunes:episode>9</itunes:episode>
-  </item>
-  <item>
-   <title>第8回 エーアイ・フルエンシーのまとめ／四つの力のおさらい／コースのあとの練習問題</title>
-   <description>エーアイ・フルエンシー基礎 レッスン13〜14。四つの力のまとめと第5〜8回のおさらい、コース後に続けられる計画づくり・プロンプト集・言葉のゲームなどの練習。</description>
-   <guid isPermaLink="false">yoru-claude-008</guid>
-   <pubDate>Wed, 14 Oct 2026 16:48:24 +0000</pubDate>
-   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/008.mp3" length="4260716" type="audio/mpeg"/>
-   <itunes:duration>532</itunes:duration>
-   <itunes:episode>8</itunes:episode>
   </item>
  </channel>
 </rss>
