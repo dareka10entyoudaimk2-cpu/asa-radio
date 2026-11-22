@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第49回 章末クイズ／プロンプトの評価／評価の5つの段階／テスト用データの作り方</title>
+   <description>Building with the Claude API のクイズとレッスン9〜11。プロンプトを点数で確かめる評価の考え方、5段階の流れ、ハイクでテスト用データを作る方法。</description>
+   <guid isPermaLink="false">yoru-claude-049</guid>
+   <pubDate>Sun, 22 Nov 2026 12:02:54 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/049.mp3" length="4049516" type="audio/mpeg"/>
+   <itunes:duration>506</itunes:duration>
+   <itunes:episode>49</itunes:episode>
+  </item>
+  <item>
    <title>第48回 システムプロンプト／温度の目盛り／ストリーミング／整ったデータの取り出し方</title>
    <description>Building with the Claude API のシステムプロンプト・温度・ストリーミング・構造化データ。役割の指定、答えのばらつき、少しずつ表示、JSONだけを取り出す技と新しい型での注意。</description>
    <guid isPermaLink="false">yoru-claude-048</guid>
@@ -357,15 +366,6 @@
    <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/010.mp3" length="4317932" type="audio/mpeg"/>
    <itunes:duration>539</itunes:duration>
    <itunes:episode>10</itunes:episode>
-  </item>
-  <item>
-   <title>第9回 新コース AIの得意と苦手／生成AIとは／AIの性格のでき方／次のトークンの予測</title>
-   <description>AIの得意と苦手 レッスン1〜5。生成AIの四つの性質と、学習でできるAIのくせ、次のトークンの予測が生む作り話と確かめ方。</description>
-   <guid isPermaLink="false">yoru-claude-009</guid>
-   <pubDate>Wed, 14 Oct 2026 16:48:25 +0000</pubDate>
-   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/009.mp3" length="4348076" type="audio/mpeg"/>
-   <itunes:duration>543</itunes:duration>
-   <itunes:episode>9</itunes:episode>
   </item>
  </channel>
 </rss>
