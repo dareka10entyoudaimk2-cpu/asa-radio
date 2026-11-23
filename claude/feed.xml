@@ -8,6 +8,15 @@
   <itunes:type>serial</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+   <title>第50回 評価を回す／モデルに採点させる／コードで採点する</title>
+   <description>Building with the Claude API の評価の章の後半。評価の仕組みを三つの部品で組み、モデルとコードの二つの採点を合わせて平均点で改善を測る方法。</description>
+   <guid isPermaLink="false">yoru-claude-050</guid>
+   <pubDate>Mon, 23 Nov 2026 12:18:00 +0000</pubDate>
+   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/050.mp3" length="4202924" type="audio/mpeg"/>
+   <itunes:duration>525</itunes:duration>
+   <itunes:episode>50</itunes:episode>
+  </item>
+  <item>
    <title>第49回 章末クイズ／プロンプトの評価／評価の5つの段階／テスト用データの作り方</title>
    <description>Building with the Claude API のクイズとレッスン9〜11。プロンプトを点数で確かめる評価の考え方、5段階の流れ、ハイクでテスト用データを作る方法。</description>
    <guid isPermaLink="false">yoru-claude-049</guid>
@@ -357,15 +366,6 @@
    <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/011.mp3" length="4355564" type="audio/mpeg"/>
    <itunes:duration>544</itunes:duration>
    <itunes:episode>11</itunes:episode>
-  </item>
-  <item>
-   <title>第10回 AIの知識とそのすき間／作業の記憶コンテキストウィンドウ／情報が多すぎると悪くなる</title>
-   <description>エーアイの得意と苦手 レッスン6〜9。AIの知識は学習データだけで締め切り日で止まることと、決まった大きさの作業の記憶、長い情報の真ん中が抜け落ちやすいことと置き方のコツ。</description>
-   <guid isPermaLink="false">yoru-claude-010</guid>
-   <pubDate>Wed, 14 Oct 2026 16:48:26 +0000</pubDate>
-   <enclosure url="https://dareka10entyoudaimk2-cpu.github.io/asa-radio/claude/episodes/010.mp3" length="4317932" type="audio/mpeg"/>
-   <itunes:duration>539</itunes:duration>
-   <itunes:episode>10</itunes:episode>
   </item>
  </channel>
 </rss>
